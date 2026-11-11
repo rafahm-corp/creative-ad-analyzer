@@ -1,0 +1,20 @@
+# Environments
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Data & Outputs
+outputs/
+inputs/
+*.log
+*.csv
+*.json
+!metrics.json # Except if it's a template, but usually outputs are ignored
+
+# IDEs
+.vscode/
+.idea/
+
+# Sensitive data
+utils/*.txt

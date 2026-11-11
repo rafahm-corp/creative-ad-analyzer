@@ -1,0 +1,9 @@
+google-generativeai
+google-api-python-client
+pandas
+python-dotenv
+matplotlib
+seaborn
+jinja2
+pathlib
+streamlit
